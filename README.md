@@ -1,5 +1,5 @@
 # Progress
 
-Left off at: 51:05 on video
+Left off at: 1:22:40 on video (create header.jsx)
 
 https://www.youtube.com/watch?v=wYpCWwD1oz0
