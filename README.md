@@ -1,5 +1,5 @@
-# Progress
+# Dashboard Website
 
-Left off at: 3:33:00 on video (Dashboard)
-
-https://www.youtube.com/watch?v=wYpCWwD1oz0
+- This is a dashboard website with various features including data metrics, form entry, accordion style tabs, and much more.
+- Used MaterialUI, Nivo Charts, DataGrid, Formik, and many more libraries to implement alot of this functionality.
+- Deploy using "npm run deploy".
